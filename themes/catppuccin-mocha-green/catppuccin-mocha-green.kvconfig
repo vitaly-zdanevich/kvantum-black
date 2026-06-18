@@ -72,7 +72,7 @@ shadowless_popup=false
 transient_groove=false
 
 [GeneralColors]
-window.color=#1E1E2E
+window.color=#000000
 base.color=#181825
 alt.base.color=#181825
 button.color=#313244
