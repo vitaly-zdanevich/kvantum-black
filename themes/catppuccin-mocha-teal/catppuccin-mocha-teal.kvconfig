@@ -73,16 +73,16 @@ transient_groove=false
 
 [GeneralColors]
 window.color=#000000
-base.color=#181825
-alt.base.color=#181825
-button.color=#313244
-light.color=#45475A
-mid.light.color=#45475A
-dark.color=#181825
-mid.color=#181825
+base.color=#000000
+alt.base.color=#000000
+button.color=#000000
+light.color=#000000
+mid.light.color=#000000
+dark.color=#000000
+mid.color=#000000
 highlight.color=#94E2D54D
-inactive.highlight.color=#45475A
-tooltip.base.color=#181825
+inactive.highlight.color=#000000
+tooltip.base.color=#000000
 text.color=#CDD6F4
 window.text.color=#CDD6F4
 button.text.color=#CDD6F4
