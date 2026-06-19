@@ -1,8 +1,6 @@
 Fork of https://github.com/catppuccin/kvantum - total black qt6 theme.
 
-<details>
 <img src="screenshot.webp"/>
-</details>
 
 ## Usage
 
