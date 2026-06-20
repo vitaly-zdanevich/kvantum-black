@@ -2,6 +2,13 @@ Fork of https://github.com/catppuccin/kvantum - total black qt6 theme.
 
 <img src='screenshot.webp'/>
 
+Gentoo Linux: available to install from [::gentoo-zh](https://github.com/microcai/gentoo-zh/tree/master/x11-themes/kvantum-black)
+```bash
+eselect repository enable gentoo-zh
+emaint sync -r gentoo-zh
+emerge --ask kvantum-black
+```
+
 ## Usage
 
 1. Open Kvantum Manager.
